@@ -23,3 +23,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhargavkola007&show_icons=true&locale=en&layout=compact" alt="bhargavkola007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavkola007&" alt="bhargavkola007" /></p>
+<img src="https://raw.githubusercontent.com/bhargavkola007/bhargavkola007/output/snake.svg" alt="Snake animation" />
+
+###
